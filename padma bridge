@@ -299,3 +299,12 @@
     </script>
 </body>
 </html>
+
+my chit sheit (internal)
+<style>
+ h2{color;green} 
+</style>
+ <h2 style="color:blue"> blue color </h2> (in line CSS)
+/external CSS/
+h3 {color:blue;background:yellow;font-size:100 px;font-family:arial;}
+img {width:300px;}
