@@ -1,0 +1,9 @@
+* {margin:0;padding:0;}
+body {width:960px;margin:0 auto;}
+img {width:100%;}
+.promo{width:46%;margin:2%;float:left;}
+.logo img{width:200px;margin-top:10px; margin-bottom:10px}
+.menu ul{background:blue;color:white;display:block;overflow:hidden;}
+.menu li{list-style:none;float:left;padding:10px;}
+.main-content {display:block; overflow:hidden;}
+.footer p{text-align:center;background:blue;color:white;padding:10px;}
